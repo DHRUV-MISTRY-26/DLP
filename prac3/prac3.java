@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Prac_3{
+public class Prac3{
     private static final Set<String> keywords = new HashSet<>(Arrays.asList(
         "int", "float", "char", "if", "else", "while", "return", "for", "do", "void", "switch", "case"
     ));
